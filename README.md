@@ -94,25 +94,26 @@ Project Contributors in aplhabetical order:<br>
 9	Astha Srivastava<br>
 10	Ayushka Behere<br>
 11	Dhruvil Jain<br>
-12	Kshitij Singh<br>
-13	Lauren Williams<br>
-14	Modekurthi Subrahmanya Satwick <br>
-15	Muskaan Bahri<br>
-16	Navneet Lamba<br>
-17	Pranav Pratyush<br>
-18	Punya Saraogi<br>
-19	Pushpendra Kushwaha<br>
-20	Qurat Ul Aaein<br>
-21	Raj Mansuriya<br>
-22	Reem Abdel-Salam<br>
-23	Rishit Chugh<br>
-24	Rishita Bansal<br>
-25	Sayan Kumar<br>
-26	Shantanu Sugriv Kshirsagar<br>
-27	Shashank Singh<br>
-28	Shilpa Gollamudi<br>
-29	Shinjan Verma<br>
-30	Sourav Dutta<br>
-31	Srijeeta Mukherjee<br>
-32	Vimukta Dashora<br>
-33	Wallace Ferreira<br>
+12  Dhruv Rathee<br>
+13	Kshitij Singh<br>
+14	Lauren Williams<br>
+15	Modekurthi Subrahmanya Satwick <br>
+16	Muskaan Bahri<br>
+17	Navneet Lamba<br>
+18	Pranav Pratyush<br>
+19	Punya Saraogi<br>
+20	Pushpendra Kushwaha<br>
+21	Qurat Ul Aaein<br>
+22	Raj Mansuriya<br>
+23	Reem Abdel-Salam<br>
+24	Rishit Chugh<br>
+25	Rishita Bansal<br>
+26	Sayan Kumar<br>
+27	Shantanu Sugriv Kshirsagar<br>
+28	Shashank Singh<br>
+29	Shilpa Gollamudi<br>
+30	Shinjan Verma<br>
+31	Sourav Dutta<br>
+32	Srijeeta Mukherjee<br>
+33	Vimukta Dashora<br>
+34	Wallace Ferreira<br>
